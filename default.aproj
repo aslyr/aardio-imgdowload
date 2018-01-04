@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="下载图片保存到数据库" libEmbed="true" icon="..." ui="win" output="下载图片到数据库.exe" CompanyName="xinzheng" FileDescription="网络测试" LegalCopyright="Copyright (C) xinzheng 2017" ProductName="网络测试" InternalName="网络测试" FileVersion="0.0.0.02" ProductVersion="0.0.0.02" publishDir="/Publish/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true">
+		<folder name="js" path="res\js" comment="res\js" embed="false">
+			<folder name="jQuery" path="res\js\jQuery" comment="res\js\jQuery">
+				<file name="jQuery.min.js" path="res\js\jQuery\jQuery.min.js" comment="res\js\jQuery\jQuery.min.js"/>
+			</folder>
+		</folder>
+		<file name="图片查看器.aardio" path="res\图片查看器.aardio" comment="res\图片查看器.aardio"/>
+	</folder>
+</project>
